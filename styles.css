@@ -1,0 +1,24 @@
+body{
+	background-image: url("Helen2 copy.jpg");
+	background-repeat: no-repeat;
+	background-size: 5450px 3900px;
+}
+h1{
+	font-family: didot;  
+	font-size: 390px;
+	position: relative;
+	left: 600px;
+	top: 500px;
+}
+a{
+	color:black;
+	text-decoration: none;
+	font-size: 150px;
+	font-family: didot;
+	padding-left: 10px;
+}
+h2{
+	position:relative;
+	left:-400px;
+	top:-190px;
+}
